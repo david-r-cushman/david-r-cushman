@@ -21,7 +21,7 @@ Currently focused on: endpoint automation, durable PowerShell tooling, and pract
 
 ## Core Technologies
 
-PowerShell · ConfigMgr · Intune · Autopilot · Microsoft Graph · Azure · GitHub Actions · Pester · PSScriptAnalyzer · Markdown · AI-assisted development
+PowerShell · ConfigMgr · Intune · Microsoft Graph · Dev Containers · Docker Desktop · WSL 2 · GitHub Actions · Pester · PSScriptAnalyzer · AI-assisted development
 
 ## Engineering Principles
 
