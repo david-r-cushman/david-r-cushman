@@ -13,6 +13,8 @@ I design endpoint platforms and automation with a focus on reliability, repeatab
 - CI-validated repositories with clear standards
 - AI-assisted development workflows with defined guardrails
 
+Currently focused on: endpoint automation, durable PowerShell tooling, and practical AI guardrails.
+
 ## Featured Portfolio
 
 [View my Endpoint Engineering Portfolio](https://github.com/david-r-cushman/endpoint-engineering-portfolio)
