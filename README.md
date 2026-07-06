@@ -2,7 +2,7 @@
 
 ## Endpoint Platform Engineer
 
-**Building Reliable, Repeatable, & Governable Solutions**
+**Building Reliable, Repeatable & Governable Solutions**
 
 I design endpoint platforms and automation with a focus on reliability, repeatability, governance, and operational clarity. My work combines Microsoft endpoint management, PowerShell automation, infrastructure validation, and AI-assisted engineering practices with practical guardrails.
 
