@@ -2,19 +2,21 @@
 
 ## Endpoint Platform Engineer
 
-**Building Reliable, Repeatable & Governable Solutions**
+**Reliable. Repeatable. Governable.**
 
-I design endpoint platforms and automation with a focus on reliability, repeatability, governance, and operational clarity. My work combines Microsoft endpoint management, PowerShell automation, infrastructure validation, and AI-assisted engineering practices with practical guardrails.
+I design endpoint platforms and engineering foundations for Microsoft environments, with a focus on PowerShell automation, validation, governance, and operational clarity. My work brings together endpoint management, reusable tooling, and AI-assisted engineering practices bounded by practical guardrails.
 
 ## What I Build
 
-- Endpoint platform engineering solutions.
+- Endpoint platform and automation solutions.
 - Reusable PowerShell tooling and development templates.
-- Microsoft platform governance patterns.
-- CI-validated repositories with clear engineering standards.
+- Microsoft platform governance and lifecycle patterns.
+- Repositories with testing, analysis, CI validation, and clear engineering standards.
 - AI-assisted engineering workflows with defined guardrails.
 
-## Current Focus
+## Current Focus Areas
+
+These are active areas of professional focus. The portfolio represents completed work and supporting evidence separately.
 
 - Endpoint platform automation
 - Durable PowerShell tooling
@@ -25,15 +27,18 @@ I design endpoint platforms and automation with a focus on reliability, repeatab
 
 [LinkedIn](https://www.linkedin.com/in/davidrcushman)
 
-## Featured Portfolio
+## Endpoint Engineering Portfolio
 
-Explore my engineering portfolio to see how these principles are applied across real-world endpoint platform projects, reusable PowerShell tooling, infrastructure validation, and AI-assisted engineering.
+My [Endpoint Engineering Portfolio](https://github.com/david-r-cushman/endpoint-engineering-portfolio) presents selected engineering investigations across operational work, technically honest labs, personal tooling, and reference implementations.
 
-[View my Endpoint Engineering Portfolio](https://github.com/david-r-cushman/endpoint-engineering-portfolio)
+- [PowerShell Engineering](https://github.com/david-r-cushman/endpoint-engineering-portfolio/tree/main/projects/powershell-engineering) — reusable development foundations and applied endpoint, deployment, and operational automation.
+- [Administrative Template Lifecycle Management](https://github.com/david-r-cushman/endpoint-engineering-portfolio/tree/main/projects/admx-lifecycle-management) — traceable, verifiable preservation of administrative-template distributions.
+
+Explore the portfolio for the underlying context, constraints, implementation evidence, and engineering tradeoffs.
 
 ## Core Technologies
 
-PowerShell · Microsoft Graph · ConfigMgr · Intune · GitHub Actions · Pester · PSScriptAnalyzer · AI-assisted Engineering · Dev Containers · Docker · WSL 2
+PowerShell · Microsoft Graph · ConfigMgr · Intune · GitHub Actions · Pester · PSScriptAnalyzer · AI-assisted engineering · Dev Containers · Docker · WSL 2
 
 ## Engineering Principles
 
